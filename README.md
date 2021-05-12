@@ -52,10 +52,12 @@ alcohol
 **1. SVM**
    - Hyperparameters were tuned, and these are the parameters used in the model are Kernel = ‘poly’, Degree = 3, Gamma = 'auto'
    - Accuracy was 82.5% for this model
+
 **2. Random Forest**
    - Hyperparameters were tuned, and these are the parameters used in the model are criterion = 'entropy’, n_estimators = 100, 
    max_features = ‘sqrt’, min_samples_leaf = 1
    - Accuracy was 82.5% for this model
+   
 **3. Decision Trees**
    - Hyperparameters were tuned, and these are the parameters used in the model are criterion = ‘entropy’, max_depth = None, 
    min_samples_split = 3
