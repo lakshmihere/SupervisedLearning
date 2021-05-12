@@ -4,7 +4,7 @@
 
 ## 1. Red Wine Quality Prediction Dataset Description: 
 
-- Red Wine Quality Prediction: Use machine learning to determine which physiochemical properties make a wine 'good'!. This dataset is available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality
+- Red Wine Quality Prediction: Used machine learning to determine which physiochemical properties make a wine 'good'!. This dataset is available from the UCI machine learning repository, https://archive.ics.uci.edu/ml/datasets/wine+quality
 -  The wine data used in this study comes from the north-west region, named Minho, of Portugal, and we have used only the data w.r.t. red wine
 - Relevant publication: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. Modeling wine preferences by data mining from physico-chemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
@@ -34,11 +34,17 @@ alcohol
 ## 4. Part II: Machine Learning
 
 *Models:*
+
 (A). LOGISTIC REGRESSION
+
 (B). DECISION TREES
+
 (C). RANDOM FORESTS
+
 (D). SVM
+
 (E). STOCHASTIC GRADIENT DESCENT
+
 (F). KNN
 
 *Top 3 Models for dataset:*
@@ -55,7 +61,7 @@ alcohol
    min_samples_split = 3
    - Accuracy was 78% for this model
 
-*Variable Importance Plot indicates that alcohol is the most important variable*
+*Variable Importance Plot indicates that **alcohol** is the most important variable*
 
 ## 5. Conclusions:
  
